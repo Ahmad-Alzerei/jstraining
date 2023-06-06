@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "The Irishman",
+        "description": "A mob hetman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+        "year": 2019,
+        "genre": "Biography, Crime, Drama",
+        "rating": "8.2/10"
+    },
+    {
+        "id": 1,
+        "title": "Once Upon a Time... in Hollywood",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "year": 2019,
+        "genre": "Comedy, Drama",
+        "rating": "7.8/10"
+    },
+    {
+        "id": 2,
+        "title": "Little Women",
+        "description": "The March sisters live and grow in post-Civil War America.",
+        "year": 1994,
+        "genre": "Drama, Family, Romance",
+        "rating": "7.3/10"
+    }
+]
